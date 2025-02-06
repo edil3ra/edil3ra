@@ -18,7 +18,7 @@
 
 ## 🛠️💡 Skill & Tools
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=python,ts,rust,elixir,django,flask,fastAPI,numpy,sympy,pandas,manim,,react,vue,gatsby,express,next,bevy,phoenix,posgressql,mongo,redis,dynamodb,aws,linux,git,github,vagrant,docker,ngninx&theme=dark" alt="skills" /> </div>
+<img src="https://skillicons.dev/icons?i=python,ts,rust,elixir,django,flask,fastAPI,numpy,sympy,pandas,manim,react,vue,gatsby,express,next,bevy,phoenix,posgressql,mongo,redis,dynamodb,aws,linux,git,github,vagrant,docker,nginx&theme=dark" alt="skills" /> </div>
 
 &nbsp;
 
